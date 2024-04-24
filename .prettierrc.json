@@ -1,0 +1,15 @@
+{
+  "tabWidth": 4,
+  "printWidth": 120,
+  "bracketSpacing": false,
+  "bracketSameLine": true,
+  "arrowParens": "avoid",
+  "overrides": [
+    {
+      "files": ["*.css", "*.scss", "*.json"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}
