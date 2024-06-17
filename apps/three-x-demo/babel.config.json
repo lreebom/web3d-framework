@@ -5,7 +5,7 @@
       {
         "useBuiltIns": "usage",
         "corejs": {
-          "version": "3.37.0",
+          "version": "3.37.1",
           "proposals": true
         }
       }
